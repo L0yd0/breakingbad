@@ -1,6 +1,6 @@
 import React from 'react'
 import Spinner from '../ui/Spinner'
-import PersonajesItem from './Personajesitem'
+import PersonajesItem from './PersonajesItem'
 const PersonajesGrid = ({items, isLoading}) => {
     return isLoading ? (
         <Spinner />
