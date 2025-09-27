@@ -1,0 +1,275 @@
+[
+    {
+        "char_id": 1,
+        "name": "Walter White",
+        "birthday": "09-07-1958",
+        "occupation": [
+            "High School Chemistry Teacher",
+            "Meth King Pin"
+        ],
+        "img": "https://static.wikia.nocookie.net/breakingbad/images/2/2a/BB_T5A-Walter_White.png/revision/latest/scale-to-width/360?cb=20221207180457&path-prefix=es",
+        "status": "Deceased",
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "Heisenberg",
+        "portrayed": "Bryan Cranston"
+    },
+    {
+        "char_id": 2,
+        "name": "Jesse Pinkman",
+        "birthday": "09-24-1984",
+        "occupation": [
+            "Former Student",
+            "Meth Dealer",
+            "Meth Cook"
+        ],
+        "img": "https://static.wikia.nocookie.net/breakingbad/images/5/52/BB_S5A_Jesse_Pinkman.png/revision/latest/scale-to-width/360?cb=20221026171345&path-prefix=es",
+        "status": "Alive",
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "Cap'n Cook",
+        "portrayed": "Aaron Paul"
+    },
+    {
+        "char_id": 3,
+        "name": "Skyler White",
+        "birthday": "08-11-1970",
+        "occupation": [
+            "Accountant",
+            "Car Wash Co-Owner",
+            "Taxi Dispatcher"
+        ],
+        "img": "https://static.wikia.nocookie.net/breakingbad/images/4/40/Season_2_-_Skyler.jpg/revision/latest?cb=20090617160516",
+        "status": "Alive",
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "Sky",
+        "portrayed": "Anna Gunn"
+    },
+    {
+        "char_id": 4,
+        "name": "Hank Schrader",
+        "birthday": "Unknown",
+        "occupation": [
+            "DEA Agent"
+        ],
+        "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/breaking-bad/4/45/Hank_Schrader.jpg?width=325",
+        "status": "Deceased",
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "ASAC Schrader",
+        "portrayed": "Dean Norris"
+    },
+    {
+        "char_id": 5,
+        "name": "Marie Schrader",
+        "birthday": "Unknown",
+        "occupation": [
+            "Radiologic Technologist"
+        ],
+        "img": "https://static.wikia.nocookie.net/neutral-characters/images/a/a8/MarieSchrader.webp/revision/latest?cb=20250409021048",
+        "status": "Alive",
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "",
+        "portrayed": "Betsy Brandt"
+    },
+    {
+        "char_id": 6,
+        "name": "Walter White Jr.",
+        "birthday": "07-08-1993",
+        "occupation": [
+            "Student"
+        ],
+        "img": "https://static.wikia.nocookie.net/breakingbad/images/6/63/T5_-_Walter_Jr.jpg/revision/latest?cb=20120715073157&path-prefix=es",
+        "status": "Alive",
+        "appearance": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "Flynn",
+        "portrayed": "RJ Mitte"
+    },
+    {
+        "char_id": 7,
+        "name": "Saul Goodman",
+        "birthday": "Unknown",
+        "occupation": [
+            "Lawyer"
+        ],
+        "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROyk6FVXVjtHnGt0f4TxtoIa-_Lzk7yHF1PRsjybQYUPaLU0H9DBqV8tbkwwA0nfX6HDsC7odEiXTLSI6CxpnDhsjrORDZa8GlXaoHWg",
+        "status": "Alive",
+        "appearance": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "Jimmy McGill",
+        "portrayed": "Bob Odenkirk"
+    },
+    {
+        "char_id": 8,
+        "name": "Gus Fring",
+        "birthday": "Unknown",
+        "occupation": [
+            "Los Pollos Hermanos Owner",
+            "Drug Kingpin"
+        ],
+        "img": "https://preview.redd.it/is-gustavo-fring-his-real-name-v0-3cmh5jrsr4df1.jpeg?width=640&crop=smart&auto=webp&s=c3fda0f377e177daecb473f7a951c6828c916b12",
+        "status": "Deceased",
+        "appearance": [
+            2,
+            3,
+            4
+        ],
+        "nickname": "The Chicken Man",
+        "portrayed": "Giancarlo Esposito"
+    },
+    {
+        "char_id": 9,
+        "name": "Mike Ehrmantraut",
+        "birthday": "Unknown",
+        "occupation": [
+            "Private Investigator",
+            "Security Consultant",
+            "Hitman"
+        ],
+        "img": "https://static.wikia.nocookie.net/doblaje/images/3/36/Mike_Ehrmantraut_2002.png/revision/latest?cb=20220814005511&path-prefix=es",
+        "status": "Deceased",
+        "appearance": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "nickname": "",
+        "portrayed": "Jonathan Banks"
+    },
+    {
+        "char_id": 10,
+        "name": "Jane Margolis",
+        "birthday": "Unknown",
+        "occupation": [
+            "Tattoo Artist",
+            "Property Manager"
+        ],
+        "img": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhow-do-you-call-the-style-of-jane-margolis-from-breaking-bad-v0-yuwdqyzbykud1.png%3Fwidth%3D750%26format%3Dpng%26auto%3Dwebp%26s%3D2e2a6836712d8ff79cc352e47608cfa6905a0b0d",
+        "status": "Deceased",
+        "appearance": [
+            2,
+            3
+        ],
+        "nickname": "",
+        "portrayed": "Krysten Ritter"
+    },
+    {
+        "char_id": 11,
+        "name": "Tuco Salamanca",
+        "birthday": "Unknown",
+        "occupation": [
+            "Meth Dealer",
+            "Drug Cartel Member"
+        ],
+        "img": "https://static.wikia.nocookie.net/antagonists/images/a/a7/Tuco_BCS.jpg/revision/latest?cb=20191119041112",
+        "status": "Deceased",
+        "appearance": [
+            1,
+            2
+        ],
+        "nickname": "",
+        "portrayed": "Raymond Cruz"
+    },
+    {
+        "char_id": 12,
+        "name": "Todd Alquist",
+        "birthday": "Unknown",
+        "occupation": [
+            "Pest Control Worker",
+            "Meth Cook"
+        ],
+        "img": "https://static.wikia.nocookie.net/breakingbad/images/e/e8/T5B_-_Todd.jpg/revision/latest?cb=20130812131451&path-prefix=es",
+        "status": "Deceased",
+        "appearance": [
+            5
+        ],
+        "nickname": "Ricky Hitler",
+        "portrayed": "Jesse Plemons"
+    },
+    {
+        "char_id": 13,
+        "name": "Lydia Rodarte-Quayle",
+        "birthday": "Unknown",
+        "occupation": [
+            "Madrigal Executive"
+        ],
+        "img": "https://static.wikia.nocookie.net/breakingbad/images/3/31/T5B_-_Lydia.jpg/revision/latest/thumbnail/width/360/height/450?cb=20130812131441&path-prefix=es",
+        "status": "Deceased",
+        "appearance": [
+            5
+        ],
+        "nickname": "",
+        "portrayed": "Laura Fraser"
+    },
+    {
+        "char_id": 14,
+        "name": "Hector Salamanca",
+        "birthday": "Unknown",
+        "occupation": [
+            "Former Drug Cartel Leader"
+        ],
+        "img": "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhector-salamanca-and-his-bell-from-breaking-bad-2008-v0-w969piuconod1.jpg%3Fwidth%3D500%26format%3Dpjpg%26auto%3Dwebp%26s%3D16da3bb11997212eb6c13ff2addce0f9a589babc",
+        "status": "Deceased",
+        "appearance": [
+            2,
+            4
+        ],
+        "nickname": "Tío",
+        "portrayed": "Mark Margolis"
+    },
+    {
+        "char_id": 15,
+        "name": "Andrea Cantillo",
+        "birthday": "Unknown",
+        "occupation": [
+            "Receptionist"
+        ],
+        "img": "https://static.wikia.nocookie.net/breakingbad/images/6/68/Andrea1.jpg/revision/latest?cb=20210918170135",
+        "status": "Deceased",
+        "appearance": [
+            3,
+            4,
+            5
+        ],
+        "nickname": "",
+        "portrayed": "Emily Rios"
+    }
+]
